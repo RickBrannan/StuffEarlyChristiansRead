@@ -1,7 +1,7 @@
 # Stuff Early Christians Read
 HTML of transcriptions and translations for the Stuff Early Christians Read project.
 
-All material in this repository is Copyright 2018 Rick Brannan.
+All material in this repository is Copyright 2018 Rick Brannan unless otherwise noted.
 
 I have blogged about some of these transcriptions on my personal web site, [rickbrannan.com](https://rickbrannan.com/category/stuff-early-christians-read/).
 
