@@ -5,6 +5,8 @@ All material in this repository is Copyright 2018 Rick Brannan.
 
 I have blogged about some of these transcriptions on my personal web site, [rickbrannan.com](https://rickbrannan.com/category/stuff-early-christians-read/).
 
+Transcriptions [are available to view](https://rickbrannan.github.io/StuffEarlyChristiansRead/data/html).
+
 # Transcriptions
 Transcriptions are largely reproduced from the named source. In these transcriptions, I have typically removed accents (for ease of typing) and also have typically not represented the size of lacunae (`[...]`). My interest is primarily in easy transcription, not in encoding every single data point necessary for a visual reproduction of the fragment.
 
