@@ -1,4 +1,4 @@
-# StuffEarlyChristiansRead
+# Stuff Early Christians Read
 HTML of transcriptions and translations for the Stuff Early Christians Read project.
 
 All material in this repository is Copyright 2018 Rick Brannan.
