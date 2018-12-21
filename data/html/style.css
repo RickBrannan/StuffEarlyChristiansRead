@@ -1,0 +1,41 @@
+/*--------------------------------------------------------------------------
+  Name: style.css--- Cascading Style Sheet (CSS-1)
+  Project: Greek Apocryphal Gospels
+  Author: Rick Brannan
+  Creation Date: 2012-04-25
+--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------
+  Major Elements
+--------------------------------------------------------------------------*/
+
+BODY 
+{
+	font-family: SBL Greek, Minion Pro;
+}
+
+
+/*---------------------------------------------------------------*/
+LI.coptic
+{
+	font-family: Antinoou, SBL Greek, Minion Pro;
+	font-size: 105%;
+}
+
+OL.greekline
+{
+	font-family: SBL Greek;
+}
+
+OL.line
+{
+	font-family: SBL Greek, Minion Pro;
+	font-size: 95%;
+}
+
+P.translation
+{
+	font-family: SBL Greek, Minion Pro;
+	font-size: 95%;
+	margin: 0 0 0 0;
+}
