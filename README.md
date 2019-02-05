@@ -3,7 +3,7 @@ HTML of transcriptions and translations for the Stuff Early Christians Read proj
 
 All material in this repository is Copyright 2018–2019 Rick Brannan unless otherwise noted.
 
-I have blogged about some of these transcriptions on my personal web site, [rickbrannan.com](https://rickbrannan.com/category/stuff-early-christians-read/).
+I have blogged about some of these transcriptions on my personal web site, [rickbrannan.com](https://rickbrannan.com/category/stuff-early-christians-read/). I publish [a weekly newsletter](https://rickbrannan.com/forthcoming/) that usually mentions some work on a fragment transcription housed here, so if you're interested [please subscribe](https://rickbrannan.com/forthcoming/).
 
 Transcriptions [are available to view](https://rickbrannan.github.io/StuffEarlyChristiansRead/data/html).
 
